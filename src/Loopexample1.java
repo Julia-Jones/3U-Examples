@@ -13,7 +13,7 @@ import becker.robots.Wall;
  *
  * @author jonej9442
  */
-public class Loopexample {
+public class Loopexample1 {
 
     /**
      * @param args the command line arguments
